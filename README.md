@@ -23,5 +23,6 @@ Para visualizar o portfólio, basta abrir o arquivo `index.html` em um navegador
 Este projeto é de autoria própria e está disponível para fins educacionais.
 
 ## Autor
-[Léo Matias Araújo]
+Léo Matias Araújo
+
 [leo21matias@hotmail.com]
