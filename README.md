@@ -14,7 +14,6 @@ Este projeto tem como objetivo a criação de um portfólio online utilizando HT
 
 ## Tecnologias Utilizadas
 * HTML5
-* CSS3
 
 ## Como Usar
 Para visualizar o portfólio, basta abrir o arquivo `index.html` em um navegador web.
