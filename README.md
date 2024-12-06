@@ -1,7 +1,7 @@
 # Mini-Projeto-1---Tecnologias-Web
 Este projeto é parte do conteúdo introdutório da disciplina de Tecnologias Web, pertencente à grade de optativas do curso de Engenharia de Computação da UFC. O objetivo é desenvolver um pequeno portfólio pessoal utilizando exclusivamente HTML, aplicando as tags e conceitos apresentados em sala de aula até o momento.
 
-# Mini Projeto 1: Portfólio Pessoal
+# Projeto: Portfólio Pessoal
 
 ## Descrição
 Este projeto tem como objetivo a criação de um portfólio online utilizando HTML. O portfólio serve como uma vitrine das minhas habilidades e experiências profissionais.
